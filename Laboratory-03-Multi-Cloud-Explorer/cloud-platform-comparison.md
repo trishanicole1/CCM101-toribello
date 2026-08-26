@@ -33,3 +33,14 @@
 AWS, Microsoft Azure, and Google Cloud Platform are all powerful cloud computing platforms, but each has different strengths. AWS is a strong choice for organizations that need a broad service catalog and maximum flexibility, Azure is ideal for organizations heavily invested in Microsoft technologies, and GCP is particularly attractive for data analytics, artificial intelligence, machine learning, and Kubernetes workloads.
 
 The best cloud provider ultimately depends on an organization's existing technology, budget, technical requirements, and long-term goals. There is no single provider that is best for every organization, which is why understanding the strengths and weaknesses of each platform is important when making a cloud adoption decision.
+
+## Checkpoint 5 – Service-Matching Table
+
+| Service Category | AWS | Microsoft Azure | Google Cloud Platform |
+|---|---|---|---|
+| Virtual Machine | **Amazon EC2** (Elastic Compute Cloud) | **Azure Virtual Machines** | **Compute Engine** |
+| Object Storage | **Amazon S3** (Simple Storage Service) | **Azure Blob Storage** | **Cloud Storage** |
+| Identity Management | **AWS IAM** (Identity and Access Management) | **Microsoft Entra ID** (formerly Azure AD) | **Cloud IAM** |
+| SQL Database | **Amazon RDS** (Relational Database Service) | **Azure SQL Database** | **Cloud SQL** |
+| Kubernetes | **Amazon EKS** (Elastic Kubernetes Service) | **Azure Kubernetes Service (AKS)** | **Google Kubernetes Engine (GKE)** |
+
