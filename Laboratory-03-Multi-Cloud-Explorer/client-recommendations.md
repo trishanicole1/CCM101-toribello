@@ -97,3 +97,15 @@ AWS is a strong choice for a global e-commerce company because it provides exten
 | **Client C – AI Research Company** | Google Cloud Platform | Strong AI/ML infrastructure, GPUs/TPUs, Vertex AI, and Kubernetes |
 | **Client D – Global E-Commerce Company** | AWS | Global infrastructure, scalability, load balancing, and CDN capabilities |
 
+
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | **AWS** | AWS offers flexible pay-as-you-go pricing, a broad range of services, and scalable infrastructure that can support a startup as it grows. |
+| Enterprise Organization | **AWS** | AWS provides extensive global infrastructure, mature enterprise support options, and a broad range of services and compliance programs suitable for large-scale operations. |
+| Microsoft Environment | **Microsoft Azure** | Azure provides strong native integration with Microsoft Entra ID, Microsoft 365, Windows Server, SQL Server, and other Microsoft technologies, which can reduce migration and management complexity. |
+| AI / Machine Learning | **Google Cloud Platform (GCP)** | GCP provides specialized AI and machine learning services, including Vertex AI and access to Google-designed Tensor Processing Units (TPUs), making it a strong choice for ML-focused workloads. |
+| Kubernetes Deployment | **Google Cloud Platform (GCP)** | Google originally developed Kubernetes, and Google Kubernetes Engine (GKE) provides a mature managed Kubernetes platform with strong integration with Google Cloud services. |
+| Global Web Application | **AWS** | AWS provides extensive global infrastructure, Amazon CloudFront for content delivery, and scalable compute and database services that can support applications serving users around the world. |
+
