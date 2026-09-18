@@ -7,3 +7,5 @@
 | docker ps -a | Lists all containers, including stopped ones, to confirm my-nginx has exited. |
 | docker rm my-nginx | Permanently removes the stopped container and its writable layer. |
 
+![Container Lifecycle Screenshot](screenshots/container-lifecycle.png)
+
