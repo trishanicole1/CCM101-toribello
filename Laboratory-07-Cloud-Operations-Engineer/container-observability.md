@@ -6,3 +6,9 @@
 ```
 
 Application logs record every request along with its status code, so they show exactly what happened and when. This lets an engineer quickly find the failing request and its cause instead of guessing.
+
+## Container Metrics (docker stats)
+
+- Container: client-website
+- CPU Usage: 0.00%
+- Memory Usage: 2.727MiB
